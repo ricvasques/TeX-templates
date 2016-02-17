@@ -3,3 +3,7 @@
 *.out
 *.synctex.gz
 *.tex.bak
+*.bbl
+*.blg
+*.spl
+
