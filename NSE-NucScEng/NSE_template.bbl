@@ -1,0 +1,31 @@
+\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
+  \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
+\begin{thebibliography}{1}
+
+\bibitem{pom91}
+G.~POMRANING,
+\newblock {\em {Linear Kinetic Theory and Particle Transport in Stochastic
+  Mixtures}},
+\newblock World Scientific Press, Singapore (1991).
+
+\bibitem{gol12}
+F.~GOLSE,
+\newblock ``{Recent Results on the Periodic Lorentz Gas},''
+\newblock in {\em Nonlinear Partial Differential Equations}, edited by
+  X.~CABR\'E and J.~SOLER, pages 39--99, Springer Basel, New York, NY, 2012.
+
+\bibitem{vas16}
+R.~VASQUES,
+\newblock ``{The nonclassical diffusion approximation to the nonclassical
+  linear Boltzmann equation},''
+\newblock {\em Appl. Math. Lett.}, {\bf 53}, 63 (2016).
+
+\bibitem{mc15}
+R.~VASQUES and K.~KRYCKI,
+\newblock ``{On the accuracy of the non-classical transport equation in 1-D
+  random periodic media},''
+\newblock in {\em Joint International Conference on Mathematics and
+  Computation, Supercomputing in Nuclear Applications and the Monte Carlo
+  Method}, Nashville, TN, Apr. 19-23, 2015.
+
+\end{thebibliography}
